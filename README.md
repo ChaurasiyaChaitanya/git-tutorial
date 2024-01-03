@@ -1,2 +1,2 @@
 # git-tutorial
-This is basic Git and GitHub learning Repository
+This is a Git and GitHub learning Repository
